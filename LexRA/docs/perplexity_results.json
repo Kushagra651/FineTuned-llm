@@ -1,0 +1,7 @@
+{
+  "base_loss": 1.8747,
+  "base_perplexity": 6.5187,
+  "finetuned_loss": 1.1231,
+  "finetuned_perplexity": 3.0745,
+  "improvement_percent": 52.84
+}

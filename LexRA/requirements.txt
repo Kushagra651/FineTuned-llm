@@ -5,3 +5,5 @@ datasets
 gradio
 accelerate
 ipykernel
+huggingface_hub
+dotenv
